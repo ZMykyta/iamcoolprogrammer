@@ -1,2 +1,2 @@
-# iamcoolprogrammer
-rabotipopython-u
+# the repository with my homeworks
+
